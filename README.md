@@ -1,3 +1,0 @@
-# MatrixComput
-MatrixComput final project
-
